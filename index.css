@@ -1,0 +1,19 @@
+
+
+body {
+    background-color: gray;
+    text-align: center;
+}
+
+h1 {
+    color: teal;
+}
+
+div {
+    border: 5px solid white;
+    text-align: center;
+    padding: 80px;
+    font-family: Verdana;
+    font-size: 3em;
+    font-weight: 700;
+}
